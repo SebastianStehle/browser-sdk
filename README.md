@@ -59,7 +59,7 @@
 
 1. First install the package from npm:
 
-`npm install -s @marker.io/browser`
+`npm install -s "@marker.io/browser"`
 
 2. Setup the SDK in your code:
 
